@@ -9,7 +9,7 @@ This repository provides an overview of the **best** open-source headless and hy
 
 ### 1. [**Medusa.js**](https://medusajs.com/) – *Best Headless eCommerce*
    - **Tech Stack:** Node.js, JavaScript, TypeScript, React (for the admin panel)
-   - **Overview:** Medusa.js is an open-source, modular, and API-driven commerce engine designed for high flexibility and customization.
+   - **Overview:** Medusa.js (2025) ranks among the top open-source eCommerce platforms, offering a modular and API-driven commerce engine designed for maximum flexibility and customization.
 
 ### 2. [**Saleor**](https://saleor.io/)
    - **Tech Stack:** Python, Django, GraphQL, React (for the dashboard)
