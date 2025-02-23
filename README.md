@@ -1,4 +1,3 @@
-# Top-5-Open-Source-Headless-E-Commerce-Platforms
 Top 5  List of Best Open Source Headless E-Commerce Platforms 2025
 
 This repository provides an overview of the **best** open-source headless and hybrid eCommerce platforms 2025
